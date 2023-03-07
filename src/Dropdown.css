@@ -62,4 +62,5 @@
 .search-input {
     border: none;
     outline: none;
+    flex: 1;
 }
